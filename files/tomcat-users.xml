@@ -12,6 +12,6 @@
         password="1a8755ca18bea68fa43e2fa2d5d89fde446d3151"
         roles="tdsTrigger"/>
   <user username="admin"
-        password="d033e22ae348aeb5660fc2140aec35850c4da997"
+        password="916e808fe2107bde5cd2b7cb3630fc019538b2e7ac6e9525c253bb126b30141c$1$8aca4940a868dc75135a0fee7d21eabd96259ddda0fcfdf945606291d8066602c9fd820bdab5fbb777ed0c164f35226eed671fff43f3ec7e73264810c4049e0f"
         roles="tdsConfig,tdsMonitor"/>
 </tomcat-users>
